@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ang-profile-app/static/js/2.5ec21d73.chunk.js"
   },
   {
-    "revision": "2a0c6331eaab3e8a8fc1f4ff1f1514ee",
+    "revision": "f3c4600d04711411ddf6beeb71095035",
     "url": "/ang-profile-app/index.html"
   }
 ];
