@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ec7234a5d5e86073c71c",
+    "revision": "da3240c87286c1231b48",
     "url": "/ang-profile-app/static/css/main.20f8c76c.chunk.css"
   },
   {
-    "revision": "ec7234a5d5e86073c71c",
-    "url": "/ang-profile-app/static/js/main.ec7234a5.chunk.js"
+    "revision": "da3240c87286c1231b48",
+    "url": "/ang-profile-app/static/js/main.da3240c8.chunk.js"
   },
   {
     "revision": "bae2cb1f97633ef72686",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ang-profile-app/static/js/2.5ec21d73.chunk.js"
   },
   {
-    "revision": "d2964c57a720cdbf66724018ea6ffff4",
+    "revision": "6c06c1e30c69545e1c453c3e3769b27a",
     "url": "/ang-profile-app/index.html"
   }
 ];
