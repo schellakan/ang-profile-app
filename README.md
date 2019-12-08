@@ -1,4 +1,4 @@
-# PORTFOLIO-APP 
+# ANGELIN PORTFOLIO-APP 
 [![Build Status](https://travis-ci.org/schellakan/ang-profile-app.svg?branch=master)](https://travis-ci.org/schellakan/angelinchellakan)
 
 This is the implementaion code for the REACTJS profile-app
