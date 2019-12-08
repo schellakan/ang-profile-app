@@ -1,5 +1,5 @@
 # ANGELIN PORTFOLIO-APP 
-[![Build Status](https://travis-ci.org/schellakan/ang-profile-app.svg?branch=master)](https://travis-ci.org/schellakan/angelinchellakan)
+[![Build Status](https://travis-ci.org/schellakan/ang-profile-app.svg?branch=master)](https://travis-ci.org/schellakan/angelin-profile-app)
 
 This is the implementaion code for the REACTJS profile-app
 - To run this project follow these steps , 
@@ -8,4 +8,4 @@ This is the implementaion code for the REACTJS profile-app
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://schellakan.github.io/angelinchellakan
+##### deployed app : https://schellakan.github.io/angelin-profile-app
